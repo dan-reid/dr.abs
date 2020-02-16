@@ -1,0 +1,54 @@
+{
+	"pattrstorage" : 	{
+		"name" : "tonesynth-settings",
+		"slots" : 		{
+			"1" : 			{
+				"id" : 1,
+				"data" : 				{
+					"Amp1" : [ -0.0 ],
+					"Amp2" : [ -0.0 ],
+					"Attack1" : [ 10.0 ],
+					"Attack2" : [ 15.0 ],
+					"Coarse1" : [ 1.0 ],
+					"Coarse2" : [ 1.0 ],
+					"Cutoff" : [ 1000.0 ],
+					"Decay1" : [ 125.0 ],
+					"Decay2" : [ 150.0 ],
+					"Env" : [ 1.0 ],
+					"Feedback_1" : [ 0.0 ],
+					"Feedback_2" : [ 0.0 ],
+					"Filter-type" : [ 1 ],
+					"Fine1" : [ 0.0 ],
+					"Fine2" : [ 0.0 ],
+					"Glide1" : [ 0.0 ],
+					"Glide2" : [ 0.0 ],
+					"Key" : [ 1.0 ],
+					"Mod" : [ 0.0 ],
+					"Output" : [ 0.0 ],
+					"Release1" : [ 250.0 ],
+					"Release2" : [ 270.0 ],
+					"Res" : [ 0.5 ],
+					"Slope" : [ 0.0 ],
+					"Split1" : [ 1.0 ],
+					"Split2" : [ 1.0 ],
+					"Spread" : [ 50.0 ],
+					"Sustain1" : [ 80.0 ],
+					"Sustain2" : [ 80.0 ],
+					"Wave1" : [ 1.0 ],
+					"Wave2" : [ 3.0 ],
+					"notemode" : [ 0.0 ],
+					"live.menu[1]" : [ 0.0 ],
+					"live.menu" : [ 13.0 ],
+					"LFO_Rate" : [ 2.0 ],
+					"LFO_on/off" : [ 0.0 ],
+					"LFO_sync" : [ 1.0 ],
+					"LFO_Amount" : [ 25.0 ]
+				}
+
+			}
+
+		}
+
+	}
+
+}

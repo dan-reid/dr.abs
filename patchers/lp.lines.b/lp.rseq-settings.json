@@ -1,0 +1,37 @@
+{
+	"pattrstorage" : 	{
+		"name" : "lp.rseq-settings",
+		"slots" : 		{
+			"1" : 			{
+				"id" : 1,
+				"data" : 				{
+					"on/off_1" : [ 0, 0, 0 ],
+					"on/off_2" : [ 0, 0, 0 ],
+					"ph1_onoff" : [ 0 ],
+					"ph2-onoff" : [ 0 ],
+					"playhead1-chance" : [ 100.0 ],
+					"playhead1-range" : [ 4, 7 ],
+					"playhead1-sync" : [ 0.0 ],
+					"playhead1_dir" : [ 0.0 ],
+					"playhead1_rate" : [ 4.0 ],
+					"playhead2-chance" : [ 100.0 ],
+					"playhead2-range" : [ 0, 3 ],
+					"playhead2-rate" : [ 4.0 ],
+					"playhead2-sync" : [ 0.0 ],
+					"playhead2_dir" : [ 0.0 ],
+					"on/off_3" : [ 0, 0, 0 ],
+					"playhead3-range" : [ 2, 5 ],
+					"playhead3-rate" : [ 4.0 ],
+					"playhead3-sync" : [ 0.0 ],
+					"playhead3-chance" : [ 0.0 ],
+					"playhead3_dir" : [ 0.0 ],
+					"ph3-onoff" : [ 0 ]
+				}
+
+			}
+
+		}
+
+	}
+
+}

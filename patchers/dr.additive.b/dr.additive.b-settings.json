@@ -1,0 +1,57 @@
+{
+	"pattrstorage" : 	{
+		"name" : "dr.additive.b-settings",
+		"slots" : 		{
+			"1" : 			{
+				"id" : 1,
+				"data" : 				{
+					"Attack" : [ 1076.801589 ],
+					"Balance" : [ 0.0 ],
+					"Decay" : [ 126.0 ],
+					"Filter-on/off" : [ 0.0 ],
+					"Filter-type" : [ 2.0 ],
+					"GUI-view" : [ 0.0 ],
+					"Output" : [ 0.0 ],
+					"Pan1" : [ -43.75 ],
+					"Pan2" : [ -31.25 ],
+					"Pan3" : [ -18.75 ],
+					"Pan4" : [ -6.25 ],
+					"Pan5" : [ 6.25 ],
+					"Pan6" : [ 18.75 ],
+					"Pan7" : [ 31.25 ],
+					"Pan8" : [ 43.75 ],
+					"Release" : [ 1000.0 ],
+					"Sustain" : [ 0.8 ],
+					"adsr-curve" : [ 0.0 ],
+					"cutoff" : [ 10.0 ],
+					"live.slider" : [ 1000.0 ],
+					"live.slider[1]" : [ 0.8 ],
+					"live.slider[2]" : [ 126.0 ],
+					"live.slider[3]" : [ 1076.801589 ],
+					"polyphony" : [ 4.0 ],
+					"dr.additive_GUI_MAIN" : [  ],
+					"dr.additive_GUI_MAIN::dr.additive_GUI-HARMS::F0" : [ 1.002705 ],
+					"dr.additive_GUI_MAIN::dr.additive_GUI-HARMS::F1" : [ 2.004609 ],
+					"dr.additive_GUI_MAIN::dr.additive_GUI-HARMS::F2" : [ 3.125551 ],
+					"dr.additive_GUI_MAIN::dr.additive_GUI-HARMS::F3" : [ 3.998497 ],
+					"dr.additive_GUI_MAIN::dr.additive_GUI-HARMS::F4" : [ 4.980561 ],
+					"dr.additive_GUI_MAIN::dr.additive_GUI-HARMS::F5" : [ 6.002305 ],
+					"dr.additive_GUI_MAIN::dr.additive_GUI-HARMS::F6" : [ 7.162926 ],
+					"dr.additive_GUI_MAIN::dr.additive_GUI-HARMS::F7" : [ 7.996192 ],
+					"dr.additive_GUI_MAIN::dr.additive_GUI-AMPS::A0" : [ 1.0 ],
+					"dr.additive_GUI_MAIN::dr.additive_GUI-AMPS::A1" : [ 0.118812 ],
+					"dr.additive_GUI_MAIN::dr.additive_GUI-AMPS::A2" : [ 0.0 ],
+					"dr.additive_GUI_MAIN::dr.additive_GUI-AMPS::A3" : [ 0.287129 ],
+					"dr.additive_GUI_MAIN::dr.additive_GUI-AMPS::A4" : [ 0.0 ],
+					"dr.additive_GUI_MAIN::dr.additive_GUI-AMPS::A5" : [ 0.188119 ],
+					"dr.additive_GUI_MAIN::dr.additive_GUI-AMPS::A6" : [ 0.851485 ],
+					"dr.additive_GUI_MAIN::dr.additive_GUI-AMPS::A7" : [ 0.148515 ]
+				}
+
+			}
+
+		}
+
+	}
+
+}

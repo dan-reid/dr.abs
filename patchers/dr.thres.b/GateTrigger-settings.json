@@ -1,0 +1,19 @@
+{
+	"pattrstorage" : 	{
+		"name" : "GateTrigger-settings",
+		"slots" : 		{
+			"1" : 			{
+				"id" : 1,
+				"data" : 				{
+					"Hold" : [ 125.0 ],
+					"Return" : [ 0.0 ],
+					"Threshold" : [ 0.0 ]
+				}
+
+			}
+
+		}
+
+	}
+
+}

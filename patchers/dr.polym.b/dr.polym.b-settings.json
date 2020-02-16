@@ -1,0 +1,29 @@
+{
+	"pattrstorage" : 	{
+		"name" : "dr.polym.b-settings",
+		"slots" : 		{
+			"1" : 			{
+				"id" : 1,
+				"data" : 				{
+					"Grid_1" : [ 16.0 ],
+					"Hit_1" : [ 5.0 ],
+					"Grid_2" : [ 16.0 ],
+					"Hit_2" : [ 7.0 ],
+					"Grid_3" : [ 16.0 ],
+					"Hit_3" : [ 2.0 ],
+					"Levels_3" : [ 1.0 ],
+					"Levels_2" : [ 6.0 ],
+					"Levels_1" : [ 4.0 ],
+					"gate_1" : [ 1.0 ],
+					"gate_2" : [ 0.0 ],
+					"gate_3" : [ 0.0 ],
+					"Switch_voice" : [ 0.0 ]
+				}
+
+			}
+
+		}
+
+	}
+
+}

@@ -1,0 +1,29 @@
+{
+	"pattrstorage" : 	{
+		"name" : "dr.dittox4-settings",
+		"slots" : 		{
+			"1" : 			{
+				"id" : 1,
+				"data" : 				{
+					"Loop-_Stop" : [ 0.0 ],
+					"Loop1_clear" : [ 0.0 ],
+					"Loop1_length" : [ 1.0 ],
+					"Loop2_clear" : [ 0.0 ],
+					"Loop2_length" : [ 1.0 ],
+					"Loop2_stop" : [ 0.0 ],
+					"Rec/Play/OD_1" : [ 0.0 ],
+					"Rec/Play/OD_2" : [ 0.0 ],
+					"timesig" : [ 4 ],
+					"Reverse" : [ 0.0 ],
+					"Speed" : [ 1.0 ],
+					"bpm" : [ 120 ],
+					"Fade" : [ 0.0 ]
+				}
+
+			}
+
+		}
+
+	}
+
+}

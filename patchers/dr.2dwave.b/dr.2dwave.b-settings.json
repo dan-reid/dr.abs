@@ -1,0 +1,23 @@
+{
+	"pattrstorage" : 	{
+		"name" : "dr.2dwave.b-settings",
+		"slots" : 		{
+			"1" : 			{
+				"id" : 1,
+				"data" : 				{
+					"Fade-in" : [ 10.0 ],
+					"Fade-out" : [ 0.0 ],
+					"nrows" : [ 4 ],
+					"output" : [ 0.0 ],
+					"x_speed" : [ 1.0 ],
+					"y_speed" : [ 0.0 ],
+					"play_button" : [ 0.0 ]
+				}
+
+			}
+
+		}
+
+	}
+
+}

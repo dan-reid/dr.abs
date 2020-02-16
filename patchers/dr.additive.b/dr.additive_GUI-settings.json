@@ -1,0 +1,32 @@
+{
+	"pattrstorage" : 	{
+		"name" : "dr.additive_GUI-settings",
+		"slots" : 		{
+			"1" : 			{
+				"id" : 1,
+				"data" : 				{
+					"dr.additive_GUI-HARMS[1]::A0" : [ 1.0 ],
+					"dr.additive_GUI-HARMS[1]::A1" : [ 0.425743 ],
+					"dr.additive_GUI-HARMS[1]::A2" : [ 0.554455 ],
+					"dr.additive_GUI-HARMS[1]::A3" : [ 0.168317 ],
+					"dr.additive_GUI-HARMS[1]::A4" : [ 0.415842 ],
+					"dr.additive_GUI-HARMS[1]::A5" : [ 0.60396 ],
+					"dr.additive_GUI-HARMS[1]::A6" : [ 0.277228 ],
+					"dr.additive_GUI-HARMS[1]::A7" : [ 0.108911 ],
+					"dr.additive_GUI-HARMS::F0" : [ 1.002705 ],
+					"dr.additive_GUI-HARMS::F1" : [ 7.004208 ],
+					"dr.additive_GUI-HARMS::F2" : [ 5.198798 ],
+					"dr.additive_GUI-HARMS::F3" : [ 3.20491 ],
+					"dr.additive_GUI-HARMS::F4" : [ 5.397194 ],
+					"dr.additive_GUI-HARMS::F5" : [ 3.095792 ],
+					"dr.additive_GUI-HARMS::F6" : [ 1.697094 ],
+					"dr.additive_GUI-HARMS::F7" : [ 3.998497 ]
+				}
+
+			}
+
+		}
+
+	}
+
+}

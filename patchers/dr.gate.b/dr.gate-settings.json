@@ -1,0 +1,25 @@
+{
+	"pattrstorage" : 	{
+		"name" : "dr.gate-settings",
+		"slots" : 		{
+			"1" : 			{
+				"id" : 1,
+				"data" : 				{
+					"Hold" : [ 125.0 ],
+					"Return" : [ 0.0 ],
+					"Threshold" : [ 0.0 ],
+					"env_time" : [ 1.0 ],
+					"Range" : [ 0.0 ],
+					"Delay_compenstation" : [ 0.24 ],
+					"Attack" : [ 1.0 ],
+					"Release" : [ 1000.0 ],
+					"Output" : [ 0.0 ]
+				}
+
+			}
+
+		}
+
+	}
+
+}

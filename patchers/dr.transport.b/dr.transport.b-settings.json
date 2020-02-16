@@ -1,0 +1,22 @@
+{
+	"pattrstorage" : 	{
+		"name" : "dr.transport.b-settings",
+		"slots" : 		{
+			"1" : 			{
+				"id" : 1,
+				"data" : 				{
+					"Midi-sync" : [ 1.0 ],
+					"Timesig_a" : [ 4 ],
+					"Timesig_b" : [ 4 ],
+					"bpm" : [ 119 ],
+					"on/off" : [ 0.0 ],
+					"Link" : [ 0.0 ]
+				}
+
+			}
+
+		}
+
+	}
+
+}

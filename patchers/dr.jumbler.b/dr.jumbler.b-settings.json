@@ -1,0 +1,36 @@
+{
+	"pattrstorage" : 	{
+		"name" : "dr.jumbler.b-settings",
+		"slots" : 		{
+			"1" : 			{
+				"id" : 1,
+				"data" : 				{
+					"Amp" : [ 1.0 ],
+					"Clock-mode" : [ 0.0 ],
+					"Duration" : [ 100.0 ],
+					"Increment" : [ 10.0 ],
+					"Jumble" : [ 0.0 ],
+					"On/Off" : [ 0.0 ],
+					"Output" : [ 0.0 ],
+					"Rate" : [ 100.0 ],
+					"Speed[1]" : [ 1.0 ],
+					"Spread" : [ 100.0 ],
+					"fade_in" : [ 0.0 ],
+					"fade_out" : [ 0.0 ],
+					"lock_duration" : [ 0.0 ],
+					"probability" : [ 100.0 ],
+					"Start-point" : [ 0.0 ],
+					"reverse_chance" : [ 0.0 ],
+					"pitch_chance" : [ 0.0 ],
+					"nvoices" : [ 32 ],
+					"voice-stealing" : [ 0.0 ],
+					"buffer-index" : [ 1 ]
+				}
+
+			}
+
+		}
+
+	}
+
+}

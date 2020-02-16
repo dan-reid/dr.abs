@@ -1,0 +1,32 @@
+{
+	"pattrstorage" : 	{
+		"name" : "dr.sus.b-settings",
+		"slots" : 		{
+			"1" : 			{
+				"id" : 1,
+				"data" : 				{
+					"Gain" : [ 0.0 ],
+					"Return" : [ 10.0 ],
+					"clear" : [ 0.0 ],
+					"dry/wet" : [ 50.0 ],
+					"freeze" : [ 0.0 ],
+					"length" : [ 80.0 ],
+					"low_thres" : [ -6.0 ],
+					"min_time" : [ 130.0 ],
+					"pitchshift_1" : [ 0.0 ],
+					"pitchshift_2" : [ 0.0 ],
+					"pitchshift_3" : [ 0.0 ],
+					"pitchshift_4" : [ 0.0 ],
+					"pitchshift_mix" : [ 0.0 ],
+					"release" : [ 500.0 ],
+					"trigger_mode" : [ 1.0 ],
+					"wait" : [ 50.0 ]
+				}
+
+			}
+
+		}
+
+	}
+
+}

@@ -1,0 +1,28 @@
+{
+	"pattrstorage" : 	{
+		"name" : "dr.disintergrationloop_settings",
+		"slots" : 		{
+			"1" : 			{
+				"id" : 1,
+				"data" : 				{
+					"bit_depth" : [ 12.0 ],
+					"crackle" : [ 0.0 ],
+					"filter_res" : [ 0.01 ],
+					"filterdrive" : [ 0.2 ],
+					"flutter" : [ 0.0 ],
+					"hp_cutoff" : [ 10.0 ],
+					"hp_on/off" : [ 1.0 ],
+					"loop_length" : [ 1000.0 ],
+					"lp_cutoff" : [ 18000.0 ],
+					"lp_on/off" : [ 1.0 ],
+					"tapedrive" : [ 0.0 ],
+					"output" : [ 0.0 ]
+				}
+
+			}
+
+		}
+
+	}
+
+}

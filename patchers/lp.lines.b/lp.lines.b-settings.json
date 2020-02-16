@@ -1,0 +1,35 @@
+{
+	"pattrstorage" : 	{
+		"name" : "lp.lines.b-settings",
+		"slots" : 		{
+			"1" : 			{
+				"id" : 1,
+				"data" : 				{
+					"dir_1" : [ 0.0 ],
+					"dir_2" : [ 0.0 ],
+					"dir_3" : [ 0.0 ],
+					"dir_4" : [ 0.0 ],
+					"dir_5" : [ 0.0 ],
+					"dir_6" : [ 0.0 ],
+					"dir_7" : [ 0.0 ],
+					"dir_8" : [ 0.0 ],
+					"gates" : [ 0, 0, 0 ],
+					"master-on/off" : [ 1.0 ],
+					"master-on/off[1]" : [ 1.0 ],
+					"row-0_notevalue" : [ 7.0 ],
+					"row-1_notevalue" : [ 7.0 ],
+					"row-2_notevalue" : [ 7.0 ],
+					"row-3_notevalue" : [ 4.0 ],
+					"row-4_notevalue" : [ 3.0 ],
+					"row-5_notevalue" : [ 4.0 ],
+					"row-6_notevalue" : [ 4.0 ],
+					"row-7_notevalue" : [ 4.0 ]
+				}
+
+			}
+
+		}
+
+	}
+
+}

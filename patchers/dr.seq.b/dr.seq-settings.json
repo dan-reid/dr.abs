@@ -1,0 +1,57 @@
+{
+	"pattrstorage" : 	{
+		"name" : "dr.seq-settings",
+		"slots" : 		{
+			"1" : 			{
+				"id" : 1,
+				"name" : "Default",
+				"data" : 				{
+					"Arp_Direction" : [ 0.0 ],
+					"Arp_Octaves" : [ 2.0 ],
+					"Arp_Offset" : [ 0.0 ],
+					"Chord" : [ 5.0 ],
+					"Clock_Source" : [ 0.0 ],
+					"Duration_Scale" : [ 1.0 ],
+					"Key" : [ 60.0 ],
+					"Mode" : [ 0.0 ],
+					"Note_Chance" : [ 85.0 ],
+					"Note_Length" : [ 7.0 ],
+					"Sequence_Length" : [ 16.0 ],
+					"Start/Stop" : [ 0.0 ],
+					"Step_Range" : [ 0, 31 ],
+					"Steps" : [ 3, 16, 1, 0, 12, 0, 1000, 2000, 3000, 4000, 6000, 7000, 8000, 9000, 11000, 12000, 15000, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2 ],
+					"Variation_Chance" : [ 35.0 ],
+					"Variation_Interval" : [ 12.0 ]
+				}
+
+			}
+,
+			"2" : 			{
+				"id" : 2,
+				"name" : "Test",
+				"data" : 				{
+					"Arp_Direction" : [ 1.0 ],
+					"Arp_Octaves" : [ 2.0 ],
+					"Arp_Offset" : [ 0.0 ],
+					"Chord" : [ 5.0 ],
+					"Clock_Source" : [ 0.0 ],
+					"Duration_Scale" : [ 1.0 ],
+					"Key" : [ 55.0 ],
+					"Mode" : [ 0.0 ],
+					"Note_Chance" : [ 85.0 ],
+					"Note_Length" : [ 13.0 ],
+					"Sequence_Length" : [ 32.0 ],
+					"Start/Stop" : [ 0.0 ],
+					"Step_Range" : [ 0, 27 ],
+					"Steps" : [ 3, 16, 1, 0, 12, 0, 1000, 2000, 3000, 4000, 6000, 7000, 8000, 9000, 11000, 12000, 15000, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2 ],
+					"Variation_Chance" : [ 0.0 ],
+					"Variation_Interval" : [ 12.0 ]
+				}
+
+			}
+
+		}
+
+	}
+
+}

@@ -1,0 +1,36 @@
+{
+	"pattrstorage" : 	{
+		"name" : "dr.resonators.b-settings",
+		"slots" : 		{
+			"1" : 			{
+				"id" : 1,
+				"data" : 				{
+					"Colour" : [ 10.0 ],
+					"Cutoff" : [ 18000.0 ],
+					"Decay" : [ 3000.0 ],
+					"Device_on/off" : [ 1.0 ],
+					"Filter_on/off" : [ 1.0 ],
+					"Filter_type" : [ 0.0 ],
+					"Note_1" : [ 42.0 ],
+					"Note_2" : [ 4.0 ],
+					"Note_3" : [ 7.0 ],
+					"Note_4" : [ 14.0 ],
+					"Output" : [ 0.0 ],
+					"Wet/Dry" : [ 50.0 ],
+					"fine_tune_1" : [ 0.0 ],
+					"fine_tune_2" : [ 0.0 ],
+					"fine_tune_3" : [ 0.0 ],
+					"fine_tune_4" : [ 0.0 ],
+					"gain_1" : [ 0.0 ],
+					"gain_2" : [ 0.0 ],
+					"gain_3" : [ 0.0 ],
+					"gain_4" : [ 0.0 ]
+				}
+
+			}
+
+		}
+
+	}
+
+}

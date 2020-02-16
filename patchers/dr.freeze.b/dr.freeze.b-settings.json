@@ -1,0 +1,43 @@
+{
+	"pattrstorage" : 	{
+		"name" : "dr.freeze.b-settings",
+		"slots" : 		{
+			"1" : 			{
+				"id" : 1,
+				"data" : 				{
+					"Gain" : [ 0.0 ],
+					"Mix" : [ 50.0 ],
+					"Return" : [ 10.0 ],
+					"Spread" : [ 100.0 ],
+					"Transition" : [ 0.5 ],
+					"auto_1" : [ 0.0 ],
+					"auto_2" : [ 0.0 ],
+					"auto_3" : [ 0.0 ],
+					"auto_4" : [ 0.0 ],
+					"denoise" : [ 0.4 ],
+					"gain_1" : [ 0.0 ],
+					"gain_2" : [ 0.0 ],
+					"gain_3" : [ 0.0 ],
+					"gain_4" : [ 0.0 ],
+					"low_thres" : [ -6.0 ],
+					"min_time" : [ 0.0 ],
+					"pitchshift_1" : [ 0.0 ],
+					"pitchshift_2" : [ 0.0 ],
+					"pitchshift_3" : [ 0.0 ],
+					"pitchshift_4" : [ 0.0 ],
+					"smooth" : [ 0.5 ],
+					"trigger_1" : [ 0.0 ],
+					"trigger_2" : [ 0.0 ],
+					"trigger_3" : [ 0.0 ],
+					"trigger_4" : [ 0.0 ],
+					"wait" : [ 0.0 ],
+					"octave_1" : [ 0.0 ]
+				}
+
+			}
+
+		}
+
+	}
+
+}

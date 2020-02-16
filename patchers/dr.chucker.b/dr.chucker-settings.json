@@ -1,0 +1,26 @@
+{
+	"pattrstorage" : 	{
+		"name" : "dr.chucker-settings",
+		"slots" : 		{
+			"1" : 			{
+				"id" : 1,
+				"data" : 				{
+					"Gain" : [ 0.0 ],
+					"Spread" : [ 50.0 ],
+					"fade-mode" : [ 2.0 ],
+					"nsteps" : [ 16 ],
+					"set-left/right" : [ 1.0 ],
+					"xfade" : [ 0.5 ],
+					"dr_chucker_GUI::dr.chucker_GRID_GUI_LEFT::left-chnl-grid" : [ 0, 16, 16, 0, 16, 0, 1001, 2002, 3003, 4004, 5005, 6006, 7007, 8008, 9009, 10010, 11011, 12012, 13013, 14014, 15015, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2 ],
+					"dr_chucker_GUI::dr.chucker_GRID_GUI_LEFT::steps-mode-left" : [ 0.0 ],
+					"dr_chucker_GUI::dr.chucker_GRID_GUI_RIGHT::right-chnl-grid" : [ 0, 16, 16, 0, 16, 0, 1001, 2002, 3003, 4004, 5005, 6006, 7007, 8008, 9009, 10010, 11011, 12012, 13013, 14014, 15015, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2 ],
+					"dr_chucker_GUI::dr.chucker_GRID_GUI_RIGHT::steps-mode-right" : [ 0.0 ]
+				}
+
+			}
+
+		}
+
+	}
+
+}

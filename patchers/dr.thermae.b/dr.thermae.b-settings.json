@@ -1,0 +1,31 @@
+{
+	"pattrstorage" : 	{
+		"name" : "dr.thermae.b-settings",
+		"slots" : 		{
+			"1" : 			{
+				"id" : 1,
+				"data" : 				{
+					"GLIDE" : [ 0.1 ],
+					"INT_1" : [ 5.0 ],
+					"INT_2" : [ 5.0 ],
+					"LFO_AMOUNT" : [ 0.0 ],
+					"LPF" : [ 999.999999999999773 ],
+					"MIX" : [ 50.0 ],
+					"MOD_AMOUNT" : [ 10.0 ],
+					"REGEN" : [ 50.0 ],
+					"nrepeats_1" : [ 0.0 ],
+					"nrepeats_2" : [ 0.0 ],
+					"nrepeats_3" : [ 0.0 ],
+					"BPM" : [ 120.0 ],
+					"SEQUENCER" : [ 0.0 ],
+					"DOUBLE" : [ 0.0 ],
+					"DELAY_TIME" : [ 2.0 ]
+				}
+
+			}
+
+		}
+
+	}
+
+}

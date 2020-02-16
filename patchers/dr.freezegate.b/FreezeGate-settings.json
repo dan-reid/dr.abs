@@ -1,0 +1,30 @@
+{
+	"pattrstorage" : 	{
+		"name" : "FreezeGate-settings",
+		"slots" : 		{
+			"1" : 			{
+				"id" : 1,
+				"data" : 				{
+					"Gain[1]" : [ 0.0 ],
+					"Smooth" : [ 0.5 ],
+					"mininum time[1]" : [ 250.0 ],
+					"multislider" : [ -70.0 ],
+					"wait[1]" : [ 50.0 ],
+					"gate-on/off" : [ 1.0 ],
+					"Threshold" : [ 0.0 ],
+					"Return" : [ 0.0 ],
+					"Overdrive" : [ 0.0 ],
+					"Denoise" : [ 0.25 ],
+					"Dry/Wet" : [ 100.0 ],
+					"mode" : [ 1.0 ],
+					"env-follow" : [ 3.0 ],
+					"delay-compensation" : [ 1.0 ]
+				}
+
+			}
+
+		}
+
+	}
+
+}

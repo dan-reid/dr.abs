@@ -1,0 +1,36 @@
+{
+	"pattrstorage" : 	{
+		"name" : "lp.seq-settings",
+		"slots" : 		{
+			"1" : 			{
+				"id" : 1,
+				"data" : 				{
+					"Duration_1" : [ 250.0 ],
+					"Duration_2" : [ 250.0 ],
+					"Rotate_1" : [ 0.0 ],
+					"Rotate_2" : [ 0.0 ],
+					"Step_1" : [ 48 ],
+					"Step_2" : [ 51 ],
+					"Step_3" : [ 55 ],
+					"Step_4" : [ 56 ],
+					"Step_5" : [ 55 ],
+					"Step_6" : [ 57 ],
+					"Step_7" : [ 59 ],
+					"Step_8" : [ 60 ],
+					"Vel_1" : [ 100.0 ],
+					"Vel_2" : [ 100.0 ],
+					"note1-variation" : [ 0.0 ],
+					"note1-variation-chance" : [ 0.0 ],
+					"note2-variation" : [ 0.0 ],
+					"note2-variation-chance" : [ 0.0 ],
+					"note1_tranps" : [ 0.0 ],
+					"note2_tranps" : [ -12.0 ]
+				}
+
+			}
+
+		}
+
+	}
+
+}

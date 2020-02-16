@@ -1,0 +1,25 @@
+{
+	"pattrstorage" : 	{
+		"name" : "dr.wii-settings",
+		"slots" : 		{
+			"1" : 			{
+				"id" : 1,
+				"data" : 				{
+					"Motion_plus_on/off" : [ 0.0 ],
+					"Port" : [ 9000 ],
+					"pitch" : [ 0.498129 ],
+					"pitch[1]" : [ 0.492756 ],
+					"pitch[2]" : [ 0.3858 ],
+					"pitch[3]" : [ 0.202825 ],
+					"pitch[4]" : [ 0.601356 ],
+					"pitch[5]" : [ 0.500588 ],
+					"pitch[6]" : [ 0.497693 ]
+				}
+
+			}
+
+		}
+
+	}
+
+}
